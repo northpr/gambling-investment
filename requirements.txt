@@ -1,0 +1,10 @@
+jupyterlab
+yfinance
+requests
+beautifulsoup4
+polars
+numpy
+matplotlib
+seaborn
+pandas
+scikit-learn

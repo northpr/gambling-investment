@@ -2,7 +2,7 @@ jupyterlab
 yfinance
 requests
 beautifulsoup4
-polars
+polars-lts-cpu
 numpy
 matplotlib
 seaborn
